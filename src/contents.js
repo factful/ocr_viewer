@@ -2,11 +2,11 @@ export default {
 	"original": "/images/historical-executive_order_9066-japanese_internment.jpg",
   "ground-truth": `
 EXECUTIVE ORDER
-- - - - - - -
+
 AUTHORIZING THE SECRETARY OF WAR TO PRESCRIBE
 MILITARY AREAS
 
-	WHEREAS the successful prosecution of the war
+WHEREAS the successful prosecution of the war
 requires every possible protection against espionage
 and against sabotage to national-defense material,
 national-defense premises, and national-defense util-
@@ -14,7 +14,7 @@ ities as defined in Section 4, Act of April 20, 1918,
 40 Stat. 533, as amended by the Act of November 30,
 1940, 54 Stat. 1220, and the Act of August 21, 1941,
 55 Stat. 655 (U. S. C., Title 50, Sec. 104):
-	NOW, THEREFORE, by virtue of the authority
+NOW, THEREFORE, by virtue of the authority
 vested in me as President of the United States, and
 Commander in Chief of the Army and Navy, I hereby
 authorize and direct the Secretary of War, and the
@@ -113,5 +113,103 @@ ticng the Secretary of War or the eppropri@te Ell itary
 `,
   "ocropus": `
 
+`,
+	"acrobat": `
+\l'd!RltAStheeueeee&f'ulproMeutionotthewar
+req,uiree
+
+enryp0Hlbl&proteet1on11gain&t
+
+e.n<'.Iagainet
+
+n11t1onel-detenMprc,1see
+itlueedetin8<!.
+40 Stet . 5JJ,
+1940,
+
+u91on98e
+
+e11bot11ge to n11tlonel - <'.letenee1111terhJ.
+, an<'.lnetlonal
+
+in Section
+u
+
+uen<!ed
+
+4 , AototApril
+by the
+
+20 , 1918 ,
+
+Act otNOT8mb8r
+
+54 Stat . l.220, irnd the Act ot J.ugust
+
+55 Stet . 655 (U.S . Co, Tit,le
+NO'J, ~'JW',
+nated
+
+ot the euthortty
+
+or the United
+
+C=derlnChietottheAr.,,yandNnvy,
+authorize
+
+a.nd direet
+
+JO,
+
+21, 1941,
+
+50 , Sec , 104):
+
+by vtrtue
+
+1n ee as Prut~ant
+
+,
+
+- dereneeutll-
+
+States,
+
+and
+
+I hereby
+
+the Secretuy
+
+ot W'e.r, and the
+
+deaign11te,whenenrheore.nydesit)lll.t8dCa,me.nder
+dee..a euoh actlon
+
+neceaMry
+
+or de&ira.bla , to pr<Jecrtbe
+
+111Uttaryare1111lnauchplecuandot1uchaitent11ahe
+ortlleappr<JI)rie.t•MlitaryC,;:rmand•rMaYdet.n11ne
+f'rOll!whichanyorallpersonameybaa1cluded,
+respeott<:>1"hich,t.heright<:>ranypersontoanter
+111111n
+Ir. , or 188'1"9 ehall
+tlcna
+
+theSecreter,.-otVar
+
+be aubject
+
+,
+a..'>drtth
+, re -
+
+to wh11tevar reatrtc
+
+or the 11ppl'¢l>ri11teHl1tary
+
+-
 `
 }
