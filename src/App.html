@@ -39,9 +39,19 @@
 
 	#text { width: 50%; }
 
+	nav {
+		display: flex;
+	}
+
 	nav div {
-		display: inline-block;
 		padding: 4px;
+		border-left: 1px solid black;
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+	}
+
+	nav div:last-child {
+		border-right: 1px solid black;
 	}
 
 	nav div.active {
@@ -49,6 +59,7 @@
 	}
 
 	#pages article {
+		font-family: Courier, monospace;
 		display: none;
 	}
 
@@ -58,10 +69,7 @@
 </style>
 
 <script>
-	import Diff from './Diff.html';
-
 	export default {
-		components: { Diff },
 		methods: {
 			select(name) {
 				console.log(`Selected ${name}`);
@@ -70,7 +78,6 @@
 		},
 		helpers: {
 			insertBreaks(text) {
-				console.log(text);
 				let lines = text.split("\n");
 				let linesWithBreaks = lines.map((line) => `${line}<br/>`);
 				return linesWithBreaks.join("\n");
