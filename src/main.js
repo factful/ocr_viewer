@@ -1,14 +1,14 @@
 import App from './App.html';
 import Diff from './jsdiff.js';
 
-import contents from './contents.js';
+import contents from './exec_order_9066.js';
 
 let groundTruth = contents["Ground Truth"];
-let image_path = contents['Original'];
+let image_path  = contents['Original'];
 let entries = Object.entries(contents).map((row)=>{ 
 	let name = row[0];
 	let original = row[1];
-	let diff = Diff.diffString(groundTruth, original);
+	let diff = Diff.diffString(original, groundTruth);
 	return [name, original, diff]; 
 });
 entries.shift();

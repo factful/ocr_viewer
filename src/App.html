@@ -26,10 +26,12 @@
 
 	main {
 		display: flex;
+		flex-wrap: wrap;
 	}
 
 	main section#image {
 		width: 50%;
+		min-width: 500px;
 	}
 
 	#image img { 
@@ -37,7 +39,10 @@
 		padding: 2%;
 	}
 
-	#text { width: 50%; }
+	#text { 
+		width: 50%;
+		min-width: 500px;
+	}
 
 	nav {
 		display: flex;
