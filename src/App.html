@@ -1,17 +1,17 @@
 <main>
 	<section id="image">
-			<img src={image[1]} alt=""/>
+			<img src={image} alt=""/>
 	</section>
 	<section id="text">
 		<nav>
-			{#each pages as [name, page] }
+			{#each pages as [name, original, diff] }
 				<div class:active="activePage == name" on:click="select(name)">{name}</div>
 			{/each}
 		</nav>
 		<div id="pages">
-			{#each pages as [name, page] }
+			{#each pages as [name, original, diff] }
 				<article class:active="activePage == name">
-					<pre>{page}</pre>
+					{@html insertBreaks(showDiff ? diff : original) }
 				</article>
 			{:else}
 				<article>No Pages</article>
@@ -58,11 +58,22 @@
 </style>
 
 <script>
+	import Diff from './Diff.html';
+
 	export default {
+		components: { Diff },
 		methods: {
 			select(name) {
 				console.log(`Selected ${name}`);
 				this.set({activePage: name});
+			}
+		},
+		helpers: {
+			insertBreaks(text) {
+				console.log(text);
+				let lines = text.split("\n");
+				let linesWithBreaks = lines.map((line) => `${line}<br/>`);
+				return linesWithBreaks.join("\n");
 			}
 		}
 	};
