@@ -8,7 +8,7 @@ let image_path  = contents['Original'];
 let entries = Object.entries(contents).map((row)=>{ 
 	let name = row[0];
 	let original = row[1];
-	let diff = Diff.diffString(original, groundTruth);
+	let diff = Diff.diffString(groundTruth, original);
 	return [name, original, diff]; 
 });
 entries.shift();
