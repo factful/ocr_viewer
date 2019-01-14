@@ -3,8 +3,8 @@ import Diff from './jsdiff.js';
 
 import contents from './contents.js';
 
-let groundTruth = contents["ground-truth"];
-let image_path = contents['original'];
+let groundTruth = contents["Ground Truth"];
+let image_path = contents['Original'];
 let entries = Object.entries(contents).map((row)=>{ 
 	let name = row[0];
 	let original = row[1];
@@ -18,7 +18,7 @@ const app = new App({
 	data: {
 		image: image_path,
 		pages: entries,
-		groundTruth: contents["ground-truth"],
+		groundTruth: groundTruth,
 		activePage: entries[0][0],
 		showDiff: true
 	}
