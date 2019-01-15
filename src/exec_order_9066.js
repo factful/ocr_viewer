@@ -1,6 +1,6 @@
 export default {
 	"Original": "/images/historical-executive_order_9066-japanese_internment.jpg",
-  "Ground Truth": `
+  	"Transcript": `
 EXECUTIVE ORDER
 
 AUTHORIZING THE SECRETARY OF WAR TO PRESCRIBE
