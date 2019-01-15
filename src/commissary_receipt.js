@@ -16,7 +16,7 @@ export default {
   REFERENCE NUMBER:1187090735
 
   ITEM                  PRICE  #   TOTAL
-  ORANGCE SLICE       $ 1.40  1 $   1.40
+  ORANGE SLICE        $ 1.40  1 $   1.40
   CHEEZ-IT            $ 2.72  1 $   2.72
   TOWN HOUSE CRACKERS $ 3.47  1 $   3.47
   CHEWY CHIPS AHOY    $ 3.40  1 $   3.04
@@ -39,7 +39,7 @@ export default {
   PEN                 $ 0.42  1 $   0.42
   TOTAL               ------ -- $  50.16
 
-  THANK YOU`,
+  THANK YOU COME AGAIN......`,
   "OCRopus": ``,
 	"Tesseract": `10/30/07
 
