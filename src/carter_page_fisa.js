@@ -1,5 +1,5 @@
 export default {
-	"Original": "/images/legal-carter_page_fisa.jpg",
+	"Original": "/images/legal-carter_page_fisa.png",
 	"Transcript": ``,
 //  "OCRopus": ``,
 	"Tesseract": `All information is considered
