@@ -3,7 +3,7 @@ import Diff from './jsdiff.js';
 
 import contents from './exec_order_9066.js';
 
-let groundTruth = contents["Ground Truth"];
+let groundTruth = contents["Transcript"];
 let image_path  = contents['Original'];
 let entries = Object.entries(contents).map((row)=>{ 
 	let name = row[0];
