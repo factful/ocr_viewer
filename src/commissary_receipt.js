@@ -1,6 +1,8 @@
 export default {
 	"Original": "/images/receipt-2esae_commissary.jpg",
-	"Transcript": `10/30/07                         10:58
+	"Transcript": `
+	* CHiPS A'Hoy KeePs Me HAPPY.
+	10/30/07                         10:58
 
   THE CITY OF NEW YORK
   DEPARTMENT OF CORRECTION
