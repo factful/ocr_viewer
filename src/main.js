@@ -1,15 +1,16 @@
 import App from './App.html';
 import Diff from './jsdiff.js';
 
-import contents from './exec_order_9066.js';
+// import contents from './exec_order_9066.js';
+import contents from './commissary_receipt.js';
 
 let groundTruth = contents["Transcript"];
 let image_path  = contents['Original'];
-let entries = Object.entries(contents).map((row)=>{ 
+let entries = Object.entries(contents).map((row)=>{
 	let name = row[0];
 	let original = row[1];
 	let diff = Diff.diffString(groundTruth, original);
-	return [name, original, diff]; 
+	return [name, original, diff];
 });
 entries.shift();
 
