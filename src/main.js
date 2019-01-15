@@ -2,7 +2,8 @@ import App from './App.html';
 import Diff from './jsdiff.js';
 
 // import contents from './exec_order_9066.js';
-import contents from './commissary_receipt.js';
+//import contents from './commissary_receipt.js';
+import contents from './carter_page_fisa.js';
 
 let groundTruth = contents["Transcript"];
 let image_path  = contents['Original'];
