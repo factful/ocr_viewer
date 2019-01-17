@@ -1,16 +1,16 @@
 <main>
 	<section id="image">
-			<img src={image} alt=""/>
+			<img src={data[topic].imagePath} alt=""/>
 	</section>
 	<section id="text">
 		<nav>
-			<div><input type="checkbox" bind:checked=showDiff /> View Diff</div>
-			{#each pages as [name, original, diff] }
+			<div><label><input type="checkbox" bind:checked=showDiff /> View Diff</label></div>
+			{#each data[topic].pages as [name, original, diff] }
 				<div class:active="activePage == name" on:click="selectApp(name)">{name}</div>
 			{/each}
 		</nav>
 		<div id="pages">
-			{#each pages as [name, original, diff] }
+			{#each data[topic].pages as [name, original, diff] }
 				<article class:active="activePage == name">
 					{@html insertBreaks(showDiff ? diff : original) }
 				</article>
