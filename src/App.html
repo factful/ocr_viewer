@@ -1,6 +1,15 @@
+<header>
+	<nav>
+		{#each Object.keys(data) as name }
+			<div class:active="topic == name" on:click="selectTopic(name)">{name}</div>
+		{:else}
+
+		{/each}
+	</nav>
+</header>
 <main>
 	<section id="image">
-			<img src={data[topic].imagePath} alt=""/>
+		<img src={data[topic].imagePath} alt=""/>
 	</section>
 	<section id="text">
 		<nav>
@@ -26,6 +35,10 @@
 		color: purple;
 	}
 
+	header {
+		margin: auto;
+	}
+
 	main {
 		display: flex;
 		flex-wrap: wrap;
@@ -42,7 +55,8 @@
 	}
 
 	#text { 
-		width: 50%;
+		width: 46%;
+		padding: 2%;
 		min-width: 500px;
 	}
 
@@ -87,8 +101,15 @@
 				console.log(`Selected ${appName}`);
 				this.set({activePage: appName, url: appName});
 			},
-			selectPage(pageName) {
-
+			selectTopic(topicName) {
+				console.log(`Selected ${topicName}`);
+				let state = this.get();
+				let data = state.data;
+				let topic = data[topicName];
+				let appNames = topic.pages.map((row) => row[0]);
+				console.log(appNames);
+				let activePage = (appNames.includes(state.activePage) ? state.activePage : appNames[0]);
+				this.set({topic: topicName, activePage: activePage});
 			}
 		},
 		helpers: {
