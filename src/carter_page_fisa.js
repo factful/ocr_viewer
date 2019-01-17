@@ -7,8 +7,8 @@ export default {
 
 	Classify by: J23J98T32       FOREIGN INTELLIGENCE SURVEILLANCE COURT
 	Reason: (C)                                                               b1-1
-	Derived From: FBI NSICG, dated 10-◼️◼️-2016                                 b3-1
-	Declassify On: ◼️◼️◼️◼️◼️◼️◼️                  WASHINGTON, D.C.                  b7A-1
+	Derived From: FBI NSICG, dated 10-██-2016                                 b3-1
+	Declassify On: ███████                  WASHINGTON, D.C.                  b7A-1
 
 	      (S) IN RE CARTER W. PAGE, A U.S    Docket Number:
 
@@ -17,9 +17,9 @@ export default {
 	                            (U) VERIFIED APPLICATION
 
 	    (S) The United States of America hereby applies to this Court for authority to
-	conduct ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️, as described herein, pursuant
+	conduct ████████████████████████████████████████, as described herein, pursuant
 	to the Foreign Intelligence Surveillance Act of 1978, as amended, Title 50, United
-	States Code (U.S.С.), §§ ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️ (FISA or the Act)
+	States Code (U.S.С.), §§ ████████████████████████ (FISA or the Act)
 
 	bl-1
 	b3-1
@@ -27,10 +27,10 @@ export default {
 	b7E-1,2, 3, 6
 
 	    1.  (U) Identity of Federal Officer Making Application This application is
-	made by ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️, a Supervisory Special Agent (SSA) of the Federal
+	made by ████████████████, a Supervisory Special Agent (SSA) of the Federal
 	Bureau of Investigation (FBI) whose official duties at FBI Headquarters include
 	supervision of the FBI's investigation of the above-captioned target based upon
-	information officially furnished to ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️.
+	information officially furnished to ████████████.
 
 	b1-1
 	b3-1
@@ -41,9 +41,9 @@ export default {
 
 	                 TOP SECRET//NOFORN
 
-	Classified by:   ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️                       b1-1
-	Derived from:    ◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️                                      b3-1
-	Declassify on:   ◼️◼️◼️◼️◼️◼️◼️◼️◼️                                         b7A-1
+	Classified by:   ███████████████████████████                       b1-1
+	Derived from:    ████████████                                      b3-1
+	Declassify on:   █████████                                         b7A-1
 
 	                                              OI Tracking No. 143045
 `, "OCRopus": `
@@ -296,4 +296,4 @@ i4
 	b7A-1
 	01 143045
 `
-}
+};
