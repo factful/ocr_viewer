@@ -1,5 +1,5 @@
 export default {
-	"Original": "/images/{name}.jpg",
+	"Original": "/images/{filename}",
 	"Transcript": ``,
   "OCRopus": ``,
 	"Tesseract": ``,
