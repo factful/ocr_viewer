@@ -4,8 +4,9 @@
 	</section>
 	<section id="text">
 		<nav>
+			<div><input type="checkbox" bind:checked=showDiff /> View Diff</div>
 			{#each pages as [name, original, diff] }
-				<div class:active="activePage == name" on:click="select(name)">{name}</div>
+				<div class:active="activePage == name" on:click="selectApp(name)">{name}</div>
 			{/each}
 		</nav>
 		<div id="pages">
@@ -19,6 +20,7 @@
 			</div>
 	</section>
 </main>
+
 <style>
 	h1 {
 		color: purple;
@@ -63,6 +65,11 @@
 		background-color: #eee;
 	}
 
+	nav div input {
+		vertical-align:middle;
+		margin: 0px 0px 4px 0px;
+	}
+
 	#pages article {
 		font-family: Courier, monospace;
 		display: none;
@@ -76,9 +83,12 @@
 <script>
 	export default {
 		methods: {
-			select(name) {
-				console.log(`Selected ${name}`);
-				this.set({activePage: name});
+			selectApp(appName) {
+				console.log(`Selected ${appName}`);
+				this.set({activePage: appName, url: appName});
+			},
+			selectPage(pageName) {
+
 			}
 		},
 		helpers: {
