@@ -23,11 +23,14 @@ let prepareData = (contents) => {
 import execOrder9066 from './exec_order_9066.js';
 import commissaryReceipt from './commissary_receipt.js';
 import carterPageFisa from './carter_page_fisa.js';
+import texasCampaignFiling from './texas_campaign_filing.js';
+
 
 let data = {
-	execOrder9066:		 prepareData(execOrder9066),
-	commissaryReceipt: prepareData(commissaryReceipt),
-	carterPageFisa: 	 prepareData(carterPageFisa)
+	execOrder9066:	    	 prepareData(execOrder9066),
+	commissaryReceipt:     prepareData(commissaryReceipt),
+	carterPageFisa:     	 prepareData(carterPageFisa),
+	texasCampaignFiling: 	 prepareData(texasCampaignFiling)
 };
 
 console.log(data);
