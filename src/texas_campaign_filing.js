@@ -2,26 +2,71 @@ export default {
 	"Original": "images/form-tx_campaign_filing.png",
 	"Transcript": ``,
   "OCRopus": `
-	other SVR gent- Podobnvy and Sporvshev to gather mtellgence un behalf ot
-	employee tn the Mardy4ttYt otfuue of a Russan bank buryakoy worked wth two
-	and gor Spmvshev were charged by a scaled complant m the U 5 D1Mrruct Court
-	b/E 1 2
-	b'G 2
-	(') 3g63) I or about Jauary 201- Podobnyy alugg wh Evgeny Buryako
-	E*E 1 2 6
-	b1 1
-	wmm\ 0W. FBI
-	b'A 1
-	HR >
-	uonspug to ut mnd autng a n unregi-turcd aeent ot a focign governmenb)
-	tor the Southern Atrict of New York te va.labons of 1S U S C 6y 3'T and 951
-	h3 1
-	be 2
-	Acuordmg to the complant Bury kov worked um he Urrted States as an aget ut the
-	h74 1
-	b7C :
-	SYR pec:tcally Burvakov uperated under non otfucal cover posuung as an
-	1
+	Verson V1 .283
+	Lonm butAr addres C ty stwe Zp Code
+	Tctal pace Shedul- A1
+	y Amount of C Ar rbut Ar $
+	scHEDuue Al
+	Enn glu/er (%ee nstrsct ns)
+	y Amount of C Ar rbut Ar $
+	Hou*n TY r7O57
+	rauewell
+	O062016 McBr de Palph
+	Hou*n TY r75a
+	s2 500 00
+	y Amount of C Ar rbut Ar $
+	$100 00
+	6 LonmbutA addres C ty stwe Zp Code
+	Fuir me of com msuer [3o ot w+P+ (a
+	Enn glu/er (%ee nstrsct ns)
+	$1 000 00
+	00082952
+	O=
+	Enn glu/er (%ee nstrsct ns)
+	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+	Attutnev
+	ww =t c4 4St= t5 u
+	Fuir me of com msuer [3o s w+P+ (a
+	Amount of C Ar rbut r $
+	Fter ID [E0: cs omm s on Fb-rs
+	s2 500 00
+	y 7
+	y Amount of C Ar rbut Ar $
+	Sth 28 Rpt 5T7
+	Forms prov e y Texas E cs.ommr*on
+	s250 00
+	sILER NrNe
+	Pr pal nrcupaton ob ttle (%ee nstrsct ns)
+	ow162O16 Lsw OMcce ot ueceR NeEon PLLu
+	ow17t2O16 McAl ster Sean
+	Fuir me of com msuer [3o ot w+P+ (a
+	Hou*n TY r70TY9
+	The instruction GUide explains how to complete this form
+	ow27t2O16 Lsw OMcces ot uamhew Dew PLLC.
+	S En gluer (%ee nstrsct ns)
+	Lonm butAr addres C ty stwe Zp Code
+	Lonm butAr addres C ty stwe Zp Code
+	Sprng TY 7SrS
+	Self
+	MONETARY POLITKCAL CONTRIBUTIONS
+	Lonm butAr addres C ty stwe Zp Code
+	O=
+	Self
+	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+	O=
+	C t.ens for a Qual ty Judd cary
+	Hou*n TY r70Tn8
+	Enn glu/er (%ee nstrsct ns)
+	CPA
+	O=
+	Pr pal nrcupaton ob ttle (%ee nstrsct ns)
+	5 Fuir me of com msur [ o ot w+P+ (a
+	O=
+	Fuir me of com msuer [3o ot w+P+ (a
+	08I0d2016 Lamy M H cks cPA
+	Attutnev
+	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+
 `,
 	"Tesseract": `
 
@@ -400,7 +445,7 @@ export default {
 	SCHEDULE A1
 	1
 	Total pages Schedule A1:
-	Sch: 113 Rpt: 4/7
+	Sch: 2/3 Rpt: 5/7
 	Filer ID
 	00082952
 	Amount of Contribution ($)
@@ -413,62 +458,61 @@ export default {
 	Full name of contributorout-of-state PAC (ID
 	out-of-state PAC (ID#:
 	7
-	09/17/2018 Bloome, Sara
-	$2,000.00
+	08/07/2018 Larry M HickS CPA
+	$100.00
 	6 Contributor address; City State; Zip Code
-	Houston, TX 77098
+	Houston, TX 77092
 	8
+	Principal occupation / Job title (See Instructions)
+	CPA
+	Date
+	09/10/2018
+	9 Employer (See Instructions)
+	Self
+	Full name of contributorout-of-state PAC (ID
+	Law Office of Mitchell R Nelson PLLC
+	Contributor address; City: State; Zip Code
+	Amount of Contribution ($)
+	$2,500.00
+	Houston, TX 77008
+	Principal occupation / Job title (See Instructions)
+	Employer (See Instructions)
+	Full name of contributorout-of-state PAC (ID
+	Law Offices of Matthew Dexter PLLC
+	Contributor address; City: State; Zip Code
+	Date
+	Amount of Contribution ($)
+	09/27/2018
+	$250.00
+	Houston, TX 77009
+	Principal occupation / Job title (See Instructions)
+	Employer (See Instructions)
+	Date
+	Full name of contributorout-of-state PAC (ID
+	Amount of Contribution ($)
+	09/17/2018 McAlister, Sean
+	$2,500.00
+	Contributor address; City: State; Zip Code
+	Spring, TX 77379
 	Principal occupation / Job title (See Instructions)
 	Attorney
 	Date
-	09/27/2018 Bobbitt, JB
-	9 Employer (See Instructions)
+	09/06/2018 McBride, Ralph
+	Employer (See Instructions)
 	Self
 	Full name of contributorout-of-state PAC (ID
 	Amount of Contribution ($)
 	$1,000.00
 	Contributor address; City: State; Zip Code
-	Houston, TX 77080
-	Principal occupation / Job title (See Instructions)
-	Attorney
-	Date
-	09/27/2018 Brock, Valeria Lee
-	Employer (See Instructions)
-	Self
-	Full name of contributorout-of-state PAC (ID
-	Amount of Contribution ($)
-	$2,500.00
-	Contributor address; City: State; Zip Code
-	Houston, TX 77098
-	Principal occupation / Job title (See Instructions)
-	Attorney
-	Date
-	09/10/2018 Cannon, Joseph
-	Employer (See Instructions)
-	Self
-	Full name of contributorout-of-state PAC (ID
-	Amount of Contribution ($)
-	$3,000.00
-	Contributor address; City: State; Zip Code
-	Spring, TX 77389
-	Principal occupation / Job title (See Instructions)
-	Attorney
-	Date
-	09/12/2018ttinger, Brian
-	Employer (See Instructions)
-	Self
-	Full name of contributorout-of-state PAC (ID
-	Amount of Contribution ($)
-	$2,500.00
-	Contributor address; City: State; Zip Code
-	Houston, TX 77094
+	Houston, TX 77057
 	Principal occupation / Job title (See Instructions)
 	Attorney
 	Employer (See Instructions)
-	Law Office of Brian Ettinger
+	Bracewell
 	orms provided by Texas Ethics Commission
 	www.ethics.state.tx.us
 	ersion
+
 `,
 	"Azure": `
 	MONETARY POLITICAL CONTRIBUTIONS
