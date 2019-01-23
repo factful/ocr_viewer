@@ -108,72 +108,137 @@ export default {
 	Version V1.0.6283
 
 `,
-  "OCRopus": `
-	Verson V1 .283
-	Lonm butAr addres C ty stwe Zp Code
-	Tctal pace Shedul- A1
-	y Amount of C Ar rbut Ar $
-	scHEDuue Al
-	Enn glu/er (%ee nstrsct ns)
-	y Amount of C Ar rbut Ar $
-	Hou*n TY r7O57
-	rauewell
-	O062016 McBr de Palph
-	Hou*n TY r75a
-	s2 500 00
-	y Amount of C Ar rbut Ar $
-	$100 00
-	6 LonmbutA addres C ty stwe Zp Code
-	Fuir me of com msuer [3o ot w+P+ (a
-	Enn glu/er (%ee nstrsct ns)
-	$1 000 00
-	00082952
-	O=
-	Enn glu/er (%ee nstrsct ns)
-	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
-	Attutnev
-	ww =t c4 4St= t5 u
-	Fuir me of com msuer [3o s w+P+ (a
-	Amount of C Ar rbut r $
-	Fter ID [E0: cs omm s on Fb-rs
-	s2 500 00
-	y 7
-	y Amount of C Ar rbut Ar $
-	Sth 28 Rpt 5T7
-	Forms prov e y Texas E cs.ommr*on
-	s250 00
-	sILER NrNe
-	Pr pal nrcupaton ob ttle (%ee nstrsct ns)
-	ow162O16 Lsw OMcce ot ueceR NeEon PLLu
-	ow17t2O16 McAl ster Sean
-	Fuir me of com msuer [3o ot w+P+ (a
-	Hou*n TY r70TY9
-	The instruction GUide explains how to complete this form
-	ow27t2O16 Lsw OMcces ot uamhew Dew PLLC.
-	S En gluer (%ee nstrsct ns)
-	Lonm butAr addres C ty stwe Zp Code
-	Lonm butAr addres C ty stwe Zp Code
-	Sprng TY 7SrS
-	Self
-	MONETARY POLITKCAL CONTRIBUTIONS
-	Lonm butAr addres C ty stwe Zp Code
-	O=
-	Self
-	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
-	O=
-	C t.ens for a Qual ty Judd cary
-	Hou*n TY r70Tn8
-	Enn glu/er (%ee nstrsct ns)
-	CPA
-	O=
-	Pr pal nrcupaton ob ttle (%ee nstrsct ns)
-	5 Fuir me of com msur [ o ot w+P+ (a
-	O=
-	Fuir me of com msuer [3o ot w+P+ (a
-	08I0d2016 Lamy M H cks cPA
-	Attutnev
-	Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
-
+	"Calamari":`
+MONETARY POLITICAL CONTRIBUTIONS
+The Instruction Guide explains how to complete this form
+ILER AE
+Ciens for a Qual ty Jud cary
+Oate
+5 Fullrameof cono muter []o or -P- (a
+0/0/21 Lany M H cks CPA
+6 Lont butor addres Cty btte Zp Code
+Houton T r7on
+Prir pal nrcupaton obtte (ee nstructons)
+CPA
+Oate
+FuI r ame of cont hutar ]o o aa-P its
+OHo/2015 Law Qfhte nf nchel R NelEon PLLL
+Cont butor addres Cty btte Zp Code
+Houton T r7on8
+Prir pal nrcupaton obtte (ee nstructons)
+Oate
+FuI r ame of cont hutar ]o o aa-P its
+0/z7/z015 Law Qfhces f atthe Deter PLLC
+Cont butor addres Cty btte Zp Code
+Houton T /70ne
+Prir pal nrcupaton obtte (ee nstructons)
+Oate
+FuI r ame of cont hutar ]o a-P it
+0+17/201 MtAl ster Sean
+Cont butor addres Cty btte Zp Code
+spr ng Tr r73r9
+Prir pal nrcupahton obtte (ee nstructons)
+Atturnev
+Oate
+FuI r ame of cont hutar ]o o aa-P its
+O+/Gh/201 MBr de Palph
+Cont butor addres Cty btte Zp Code
+Houton T /7O57
+Prir pal nrcupaton obtte (ee nstructons)
+Atturnev
+Foms prov e yTexasE cs ommson
+7
+En uluer(ee nstructons)
+elf
+Fler I [Ef csomms on l-rs
+00B2952
+Amount of C.r rbut or 5)e
+Amount of Cr rbut r 5
+n pluer(ee nstruct ons)
+Amount of Cr rbut r 5
+n pluer(ee nstruct ons)
+wr et cs state t, us
+Sth 2/3 Rpt 57
+Amount of Cr rbut r 5
+n pluer(ee nstruct ons)
+rauewell
+Tctl nane cheul- A1
+Amount of Cr rbut r 5
+n pluer(ee nstruct ons)
+elf
+sCcHEputuE A1
+100 o
+$2 500 0
+$250 0
+$2 500 0
+100 on
+versan V1 . .28
+`,
+	"OCRopus": `
+MONETARY POLITKCAL CONTRIBUTIONS
+The instruction GUide explains how to complete this form
+sILER NrNe
+C t.ens for a Qual ty Judd cary
+O=
+5 Fuir me of com msur [ o ot w+P+ (a
+08I0d2016 Lamy M H cks cPA
+6 LonmbutA addres C ty stwe Zp Code
+Hou*n TY r75a
+Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+CPA
+O=
+Fuir me of com msuer [3o ot w+P+ (a
+ow162O16 Lsw OMcce ot ueceR NeEon PLLu
+Lonm butAr addres C ty stwe Zp Code
+Hou*n TY r70Tn8
+Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+O=
+Fuir me of com msuer [3o ot w+P+ (a
+ow27t2O16 Lsw OMcces ot uamhew Dew PLLC.
+Lonm butAr addres C ty stwe Zp Code
+Hou*n TY r70TY9
+Pr pal nrcupaton ob ttle (%ee nstrsct ns)
+O=
+Fuir me of com msuer [3o s w+P+ (a
+ow17t2O16 McAl ster Sean
+Lonm butAr addres C ty stwe Zp Code
+Sprng TY 7SrS
+Pr pal nrcupaton ob ttle (%ee nstrsct ns)
+Attutnev
+O=
+Fuir me of com msuer [3o ot w+P+ (a
+O062016 McBr de Palph
+Lonm butAr addres C ty stwe Zp Code
+Hou*n TY r7O57
+Pr pal nrcupaton )ob ttle (%ee nstrsct ns)
+Attutnev
+Forms prov e y Texas E cs.ommr*on
+y 7
+S En gluer (%ee nstrsct ns)
+Self
+Fter ID [E0: cs omm s on Fb-rs
+00082952
+Amount of C Ar rbut r $
+y Amount of C Ar rbut Ar $
+Enn glu/er (%ee nstrsct ns)
+y Amount of C Ar rbut Ar $
+Enn glu/er (%ee nstrsct ns)
+ww =t c4 4St= t5 u
+Sth 28 Rpt 5T7
+y Amount of C Ar rbut Ar $
+Enn glu/er (%ee nstrsct ns)
+rauewell
+Tctal pace Shedul- A1
+y Amount of C Ar rbut Ar $
+Enn glu/er (%ee nstrsct ns)
+Self
+scHEDuue Al
+$100 00
+s2 500 00
+s250 00
+s2 500 00
+$1 000 00
+Verson V1 .283
 `,
 	"Tesseract": `
 
