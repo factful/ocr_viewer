@@ -40,7 +40,7 @@ export default {
   TOTAL               ------ -- $  50.16
 
   THANK YOU COME AGAIN......`,
-  "Kraken":`
+  "Calamari":`
   ee Me ArPD
 e
 10/30/o7 -------- c C

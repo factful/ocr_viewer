@@ -47,7 +47,7 @@ export default {
 
 	                                              OI Tracking No. 143045
 `, 
-	"Kraken":`
+	"Calamari":`
 	unlassfied aexcept where
 	Llassfy by I71]93132
 	Ren on (o )

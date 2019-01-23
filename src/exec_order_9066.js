@@ -28,7 +28,7 @@ respect to which, the right of any person to enter, re-
 main in, or leave shall be subject to whatever restric-
 tions the Secretary of War or the appropriate Military
 `,
-"Kraken":`
+"Calamari":`
 l-
 XEXUTTE oRDER
 AUTHOnIaIN THE STREIAR O WAR TO PRSSCRIBE
