@@ -24,13 +24,15 @@ import execOrder9066 from './exec_order_9066.js';
 import commissaryReceipt from './commissary_receipt.js';
 import carterPageFisa from './carter_page_fisa.js';
 import texasCampaignFiling from './texas_campaign_filing.js';
+import yanukovychLeaks from './yanukovychleaks-img132.js';
 
 
 let data = {
-	execOrder9066:	    	 prepareData(execOrder9066),
-	commissaryReceipt:     prepareData(commissaryReceipt),
-	carterPageFisa:     	 prepareData(carterPageFisa),
-	texasCampaignFiling: 	 prepareData(texasCampaignFiling)
+	"Order 9066":	    	 prepareData(execOrder9066),
+	"Commissary Receipt":     prepareData(commissaryReceipt),
+	"Carter Page Fisa":     	 prepareData(carterPageFisa),
+	"Texas Campaign Filing": 	 prepareData(texasCampaignFiling),
+	"Yanukovych Leaks":				 prepareData(yanukovychLeaks)
 };
 
 console.log(data);
