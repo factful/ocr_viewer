@@ -24,7 +24,7 @@ import execOrder9066 from './exec_order_9066.js';
 import commissaryReceipt from './commissary_receipt.js';
 import carterPageFisa from './carter_page_fisa.js';
 import texasCampaignFiling from './texas_campaign_filing.js';
-import yanukovychLeaks from './yanukovychleaks-img132.js';
+import yanukovychLeaks from './yanukovych.js';
 
 
 let data = {
