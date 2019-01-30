@@ -31,186 +31,71 @@ export default {
     87 +С1546-66    Пропан-бутан технічний                          м3      0,01386      14,86     13,50   1,36   0,00 37 км.
        варіант 1                                                                          0,21      0,19   0,02   0,00 
 `,
-  "Calamari": `a
+  "OCRopus": `ОПрограмний комппвкс мвке 1
+ув -сттт ьО1 дооепп
+варівнт 3
+в стттзт Гоунтоьжм
+варіант 1
+уу стиз.лт сипоп натовий, марка
+варіант 1
+ув -стттв.ддтл рубв ствева зтБжв мм
+варівнт 1
+у сттвдт рубв сталева ѣз мм
+варвнт 1
+во -стттвсдлт Груба ствпева тасБ мм
+варівнт
+1 нСтттз тьуБм ствпвва 1БОжѣ5 мм
+варівнт 1
+вд -стттвдд руба ствпева ВОх мм
+варвнт
+вз -стОіѣ5 ебнь з природного каменю дпя
+будвепьних робппт, ракщія ОНО мм, марка
+мвоо
+в н-стыуьздѣО щебнь з природного каменю дпя
+варвнт 1 будшвепьних робт, сракія ѣф мм, марка
+лмоо
+вв -стствьв сок природний. змбвганений
+варівнт 1
+ввнстэовз сок прироониа, довий
+варвнт
+в-ствыввв Пропаннбутмы технчний
+варвнт
+м3
 
+ттво
+влл
+вло полт тлз
+ер ду
+рр
+твзо твзоо ,во ооо
+воо,щ,иве
+оооорь ну ныр . др у
+зво звв оор ооо
+о яч --ИИЯ ,
+р г
+О, зу о
+оль жил жжы яил др у хь
+звлр звт,зо в ооо
+ош Оя жИж яя р у
+зв ввмт вмв оро
+оот ИМОл иня яд д у
+рывлз зытв рь ооо
+и д[5 ѣ3 эа жщг-
+оор жя йы ял др у кю
+вв.лз твр в ооо
+зор ѣ м м у
+звтз звтз ооо ооо
+озрв дх ьу ер ОИы
+ввты ввты оро одо
+ов р я р д
+твлз твлз ооо ооо
+вза р
+рр р я
+човзо ловао ооо оо
+а д л ю
+оозва нл дОм
+олт олта оо ооо
 
-  S S S
-  8 88 8 88 88 88 88 8 8]8 8]8 8 8]
-  oo l l ol cl clc l l l ol olc cl cl lc
-  88 ]8 ]8 ] s e 8s 88 8 88 s
-  - cl cl ] o]o ol o] oloo o]- cl cl l cl lc
-  - - O N-] ] l tl l- v]
-  e
-  
-  a a a a a i
-  col- o]co N-] coli ]c
-  ] o ] 8]f r- - e 8 l-
-  lr- ] ] clr lo ol- olc ol- olo oilo olo olco cl
-  uo] tlo tlt -lo co] O I-]t N-]i M-- - -l
-  o o
-  co I- ol ] l l-- clo olo rl -lco -l
-  l -] l- ol- oI (Olo ol
-  88] 8 ] 2 ]8, i e e - es 8] 8%
-  cloo oilc yl ols l ou olco olu oiloo ilo ol olco -
-  Ol(O OIrN- cost o]c I-](O r--] -]1 N-1- N-I -]
-  t
-  co N- cl ] lo l- ] olo tl- -lco -
-  vr -] ol- ol- l OIC KOl
-  g F E E 2 A
-  c c
-  - - E
-  1s $
-  e5
-  1: : : s
-  G 6 6
-  N- -
-  g s o oe o o
-  -8 g g
-  g o
-  E E E E s
-  g
-  E a 8 o
-  .
-  I E S - - - -
-  1 4
-  o
-  o c C - - C - C o o C u
-  o c - - uo -- - - o - o -
-  E
-  a--
-  g.
-  
-  
-  o 9-
-  
-  .
-  g
-  
-  
-  5
-  sie
-  e
-  8%
-  1; t
-  4g .
-  ge g
-  =.
-  g g
-  e g
-  5
-  sge 8
-  t
-  e
-  o - o -
-  h
-  E
-  1
-  
-  s g
-  g
-  5
-  e g
-  = E
-  r - -
-  t
-  E
-  ]2 E Fa EE E Ea Ea Fe E
-  ss g
-  g s .g
-  a a n gpb;; z; ggig
-  o r oo o
-  -
-  
-  `,
-  "OCRopus": `5
-]
-] s
-4 as As A4 ss 4
-88 88 888 88 8i8 8i8 88 88 88 si8 88 88 88
-ex clc olcd clcd cddlo clcdd clo olo clc olc cdlcd cdlcdd clc clo
-si8 a8 ta AS Rs 7z Rs R> 88 88 88 88 Re
-+- cl+- cii c ld adlad aolud adl+- adlod ad!+- cdld clc cdlo dld' +-lcd
-e- e- O)] N-] q] q'[ 3] e]e- ?]
-E
-4
-s : s s s s s
-5 eo-- cOo] oo r--] eo] uoo cOo]eo
-S|S j 8iG S[ =io r-i= mr e4e e+ eiv ej ESS i+
-dlr-- o]ed g]d clr- udludd e$l olcd eil cilod cil ud udld uolod e$lc
-ur)] u) gigD qig -]e4 eo] g -]2 --] uro Nj+- t-1C e-I
-g o o
-c5 r- cl 3] oleo cl=- oi e ol do 1=- +-ex -I
-er] +-[ Ox e- Ox e- Oo1 gle4 gD]
-S 348 t|5 ]4 88& =- =-. -ie + =+ - a& 8&
-cdlod eil ed s|c adls +-lei oilu5 eilod oilu5 cil od eil udd tolo uol ooo cd
-O)] gD O)[N. o] g: gD]eo t-]gD .] r--]uro n--1+- N--]CO +-
-r-
-cd5 r- cd Ki] ol ex ol+- g]e4 olo [+- +-leo +-1
--] +-] OY[ +- O)]+- O)I gOlC4 gDl
-' f - 5 s 5 s s s
-cd c
-sr Sj b r r r r r a 5 a
-s 4
-E
-H : : : +
-c4 r-- u) 64
-g = = = = =
-w @ $8 $ 9 $ &
-5 m 4 44 4 a2
-5 5 5 t s
-5
-R. $ @ @ 4 =
-c. a. c, E a.
-1 e ,5 - +- H- H
-1 1
-c e ui &
-c@ e5 c +- rE +- Cs +- c3 c4 3S o5 > r N u)
-f@ c4 + w e) s c) s ub s uf> s- ub s o K uf K
-x
-SY-
-g8
-g &
-E 4
-o 9
-8 =
-2 EE
-8
-2 &
-8 2
-e
-as
-4%s
-&&
-I:
-$4 -
-k$ e
-2 .E
-S E
-2 =g
-e $
-g$= s
-e s:
-&as e
-0 +- 00 +-
-e E
-ea Y
-< 1
-
-s 8
-% 4
-@
-$
-e 2
--+ 8-
-z t
-s
-l E & 4 E4 E4 Es Es 4 Es
-A e s
-sr ,8
-;33; P 5 ;2
-uo do r- oo ox
-S +-
-k
 `,
   "Tesseract": ` 
 
