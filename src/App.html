@@ -46,7 +46,7 @@
 
 	main section#image {
 		width: 50%;
-		min-width: 500px;
+		min-width: 400px;
 	}
 
 	#image img { 
@@ -57,22 +57,19 @@
 	#text { 
 		width: 46%;
 		padding: 2%;
-		min-width: 500px;
+		min-width: 400px;
 	}
 
 	nav {
 		display: flex;
+		flex-wrap: wrap;
 	}
 
 	nav div {
+		justify-content: space-between;
 		padding: 4px;
-		border-left: 1px solid black;
-		border-top: 1px solid black;
-		border-bottom: 1px solid black;
-	}
-
-	nav div:last-child {
-		border-right: 1px solid black;
+		margin: 2px;
+		border: 1px solid black;
 	}
 
 	nav div.active {
