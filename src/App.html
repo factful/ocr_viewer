@@ -1,14 +1,15 @@
-<header>
-	<nav>
-		{#each Object.keys(data) as name }
-			<div class:active="topic == name" on:click="selectTopic(name)">{name}</div>
-		{:else}
-
-		{/each}
-	</nav>
-</header>
 <main>
 	<section id="image">
+			<header>
+					<nav>
+						{#each Object.keys(data) as name }
+							<div class:active="topic == name" on:click="selectTopic(name)">{name}</div>
+						{:else}
+				
+						{/each}
+					</nav>
+				</header>
+				
 		<img src={data[topic].imagePath} alt=""/>
 	</section>
 	<section id="text">
@@ -47,6 +48,7 @@
 	main section#image {
 		width: 50%;
 		min-width: 400px;
+		padding-top:2%;
 	}
 
 	#image img { 
