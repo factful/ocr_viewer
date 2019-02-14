@@ -1,5 +1,5 @@
 export default {
-	"Original": "images/damaged-yanukovych-leaks.jpg",
+	"Original": "./images/damaged-yanukovych-leaks.jpg",
   "Transcript": `7Програмний комплекс АВК-5 (2.10.6 )                                   - 7 -                                           600_ДЦ_ИВР
   1        2             3                                          4         5        6/7        8/9     10/11  12/13     14
     75 +С1111-91    Дюбелі                                          шт         1180       0,66      0,65   0,01   0,00 

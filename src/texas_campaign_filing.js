@@ -1,5 +1,5 @@
 export default {
-	"Original": "images/form-tx_campaign_filing.png",
+	"Original": "./images/form-tx_campaign_filing.png",
 	"Transcript": `
 	MONETARY POLITICAL CONTRIBUTIONS
 

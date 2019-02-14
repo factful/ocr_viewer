@@ -1,5 +1,5 @@
 export default {
-	"Original": "/images/historical-executive_order_9066-japanese_internment.jpg",
+	"Original": "./images/historical-executive_order_9066-japanese_internment.jpg",
 	"Transcript": `
 EXECUTIVE ORDER
 

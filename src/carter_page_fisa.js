@@ -1,5 +1,5 @@
 export default {
-	"Original": "/images/legal-carter_page_fisa.png",
+	"Original": "./images/legal-carter_page_fisa.png",
 	"Transcript": `All information is considered
 	unclassified except where               TOP SECRET//NOFORN
 	otherwise shown.
